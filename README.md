@@ -1,5 +1,5 @@
-# react-webpack-boilerplate-server
-React, Typescript, Babel, Webpack, Eslint, Express.js.. Boilerplate
+# Shobeans
+Shobeans is a simple site for adding some twitch interactions to obs/streamlabs via browser sources. It is primarily being made for a friend [Shojitsu](https://www.twitch.tv/shojitsu_)
 
 ## Getting Started
 
